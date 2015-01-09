@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileRecruiter/Views/MainPage.cs">
+    <Files>
+      <File FileName="MobileRecruiter/App.cs" Line="36" Column="36" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="MobileRecruiter/Views/MainPage.cs" Line="1" Column="1" />
+      <File FileName="MobileRecruiter/Views/ContactUsPage.cs" Line="1" Column="1" />
+      <File FileName="iOS/BaseUrlTouch.cs" Line="1" Column="1" />
+      <File FileName="iOS/NetworkService.cs" Line="1" Column="1" />
+      <File FileName="Android/NetworkService.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sudhir.thanki/Desktop/SharedDrive/XamarinForms/MobileRecruiter/MobileRecruiter/Views/MainPage.cs" line="81" column="1" />
+      <Breakpoint file="/Users/sudhir.thanki/Desktop/SharedDrive/XamarinForms/MobileRecruiter/MobileRecruiter/Views/MainPage.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
